@@ -11,6 +11,7 @@ subtitle                 : "Automatic Control System Design"
 name                     : &name "Seigo Sasaki"
 description              : Sasaki Group Web Page
 url                      : https://sasaki-group.github.io
+words_per_minute         : 200
 
 future: true
 
@@ -24,6 +25,13 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
 
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sasaki-group"
+  since: "2013"
 
 # Defaults
 defaults:
@@ -38,6 +46,11 @@ defaults:
       # comments: true
       share: true
       related: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Plugins
 plugins:
