@@ -1,6 +1,7 @@
 title: Sasaki Group
 description: Sasaki Group Web Page
 remote_theme: "mmistakes/minimal-mistakes"
+future: true
 
 plugins:
   - jekyll-remote-theme
