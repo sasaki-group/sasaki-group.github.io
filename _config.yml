@@ -17,7 +17,12 @@ future: true
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  bio              : "University educator and researcher exploring the intersection of narrative and design thinking"
   location         : "Yokosuka, Japan"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sasaki-group"
 
 
 # Defaults
