@@ -7,6 +7,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 title                    : Sasaki Group
 title_separator          : "-"
+subtitle                 : "Automatic Control System Design"
 name                     : &name "Seigo Sasaki"
 description              : Sasaki Group Web Page
 url                      : https://sasaki-group.github.io
@@ -18,6 +19,22 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   location         : "Yokosuka, Japan"
 
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
