@@ -1,26 +1,41 @@
 #
 # seigo
 
+# Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Site Settings
+locale                   : "ja-JP"
 title                    : Sasaki Group
 title_separator          : "-"
 subtitle                 : "Automatic Control System Design"
 name                     : &name "Seigo Sasaki"
-description              : Sasaki Group Web Page
+description              : Explorer of the intersection of narrative and design thinking
 url                      : https://sasaki-group.github.io
+date_format              : "%Y-%m-%d"
 words_per_minute         : 200
-
+enable_copy_code_button  : # true, false (default)
 future: true
 
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University educator and researcher exploring the intersection of narrative and design thinking"
   location         : "Yokosuka, Japan"
+  email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fab fa-brands fa-linkedin"
+      # url: "https://linkedin"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
@@ -33,6 +48,72 @@ footer:
       url: "https://github.com/sasaki-group"
   # since: "2025"
 
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - minimal-mistakes-jekyll.gemspec
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Pagination with jekyll-paginate
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
 # Defaults
 defaults:
   # _posts
@@ -43,18 +124,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       # comments: true
       share: true
       related: true
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+
+
