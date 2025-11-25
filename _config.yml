@@ -34,7 +34,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "ORCID"
-      icon: "/assets/images/orcid.logo.icon.svg"
+      icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-7596-5291"
     - label: "Linkedin"
       icon: "fab fa-brands fa-linkedin"
