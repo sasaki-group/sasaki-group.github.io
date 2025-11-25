@@ -40,10 +40,6 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
 
-# site header
-header:
-  image: /assets/images/header_laboratory.png
-
 # Site Footer
 footer:
   links:
