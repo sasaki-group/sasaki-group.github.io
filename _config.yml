@@ -35,7 +35,7 @@ author:
       # url: "https://your-website.com"
     - label: "Linkedin"
       icon: "fab fa-brands fa-linkedin"
-      # url: "https://linkedin"
+      url: "www.linkedin.com/in/seigo-sasaki"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
@@ -43,6 +43,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-brands fa-linkedin"
+      url: "www.linkedin.com/in/seigo-sasaki"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sasaki-group"
