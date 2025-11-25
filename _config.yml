@@ -121,6 +121,8 @@ defaults:
       author_profile: true
       read_time: true
       show_date: true
+      show_tags: true
+      show_categories: true
       # comments: true
       share: true
       related: true
