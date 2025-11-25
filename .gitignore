@@ -1,0 +1,15 @@
+
+# === General / Editor / Backup ===
+
+*_backup
+*_bak
+
+*.swp
+*.swo
+*.~*
+*~
+~*.lck
+*.tmp
+*.bak
+*-bak
+*-bak*
