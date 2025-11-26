@@ -1,9 +1,2 @@
-
-.page__content {
-  font-size: 12px !important;
-}
-@media (min-width: 768px) {
-  .page__content {
-    font-size: 14px !important;
-  }
-}
+// 本文サイズを14px相当に変更
+$type-size-6: 0.875rem; // 16px × 0.875 = 14px
