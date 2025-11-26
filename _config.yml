@@ -144,9 +144,20 @@ paginate_path: /page:num/
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-archives
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
