@@ -127,8 +127,9 @@ defaults:
       show_date: true
       show_tags: true
       show_categories: true
-      toc: true
-      toc_sticky: true
+      # toc: true
+      # toc_sticky: true
+
 
 # Sass/SCSS
 sass:
