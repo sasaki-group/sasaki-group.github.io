@@ -1,8 +1,9 @@
+
 .page__content {
-  font-size: 12px;
+  font-size: 12px !important;
 }
 @media (min-width: 768px) {
   .page__content {
-    font-size: 14px;
+    font-size: 14px !important;
   }
 }
