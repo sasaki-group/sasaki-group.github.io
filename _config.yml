@@ -119,6 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_meta: true
       read_time: true
       show_date: true
       show_tags: true
