@@ -19,6 +19,13 @@ words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 future: true
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-XMD7YTZZLE" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
