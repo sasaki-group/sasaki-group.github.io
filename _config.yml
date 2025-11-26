@@ -10,8 +10,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "ja-JP"
 title                    : Sasaki Group
 title_separator          : "-"
-subtitle                 : "Automatic Control System Design  
-                            An Introduction to Control Systems"
+subtitle                 : "Automatic Control System Design"
 name                     : &name "Seigo Sasaki"
 description              : Explorer of the intersection of narrative and design thinking
 url                      : https://sasaki-group.github.io
