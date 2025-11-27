@@ -3,7 +3,7 @@ title: "Preprint Announcement: Lyapunov–Barrier Duality"
 date: 2025-11-27
 categories: [Research, Preprint]
 tags: [Lyapunov, Barrier, Nonlinear Control, Stability, Reinforcement Learning]
-author: "Seigo Sasaki"
+# author: "Seigo Sasaki"
 ---
 
 ## Preprint Announcement
