@@ -16,6 +16,7 @@ A new preprint has just been released.
   Department of Electrical and Electronic Engineering, National Defense Academy of Japan  
   [ORCID: 0000-0002-7596-5291](https://orcid.org/0000-0002-7596-5291)  
 - **DOI:** [https://doi.org/10.51094/jxiv.2002](https://doi.org/10.51094/jxiv.2002)  
+- **Jxiv:** [https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/2002](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/2002)
 
 ### Keywords
 Lyapunov function, barrier function, contraction theory, region-based stability, nonlinear control, Hamilton-Jacobi-Bellman (HJB), reinforcement learning
