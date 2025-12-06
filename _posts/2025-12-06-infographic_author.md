@@ -16,7 +16,9 @@ tags: [Author Introduction, Profile, Google NotebookLM, Japanese-English, AI Col
 
 ぜひご覧いただき、AIとの協働から生まれる新しい知のかたちを感じていただければ嬉しいです。  
 
-👉 [日本語版インフォグラフィックはこちら](/assets/images/author_infographic_jp.png)
+<!--👉 [日本語版インフォグラフィックはこちら](/assets/images/author_infographic_jp.png)-->
+![日本語版インフォグラフィック](/assets/images/author_infographic_jp.png)
+
 
 ---
 
@@ -29,5 +31,6 @@ With the support of **Google NotebookLM & Gemini**, the work structures diverse 
 
 Explore the infographic to experience how new forms of knowledge can emerge from **human–AI collaboration**.  
 
+<!-- 👉 [Visit the English Infographic](/assets/images/author_infographic_en.png) -->
+![English Infographic](/assets/images/author_infographic_en.png)
 
-👉 [Visit the English Infographic](/assets/images/author_infographic_en.png)
