@@ -28,3 +28,7 @@ This article proposes a unified region-based paradigm that reconnects historical
 
 📢 For details, please visit the [DOI link](https://doi.org/10.51094/jxiv.2002).  
 Researchers and practitioners interested in nonlinear control and reinforcement learning are encouraged to take a look.
+
+---
+
+**Authorship note**: Drafted with MS Copilot · Final responsibility: Seigo Sasaki (updated wording)
