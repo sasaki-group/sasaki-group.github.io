@@ -3,7 +3,6 @@ title: "著者紹介インフォグラフィック / Author Introduction Infogra
 date: 2025-12-06
 categories: [About, Infographic]
 tags: [Author Introduction, Profile, Google NotebookLM, Google Nano Banana Pro, Google Gemini, Japanese-English, AI Collaboration]
-authorship_note: "Drafted with MS Copilot · Final responsibility: Seigo Sasaki (updated wording)"
 
 ---
 
@@ -36,3 +35,5 @@ Explore the infographic to experience how new forms of knowledge can emerge from
 <!-- 👉 [Visit the English Infographic](/assets/images/author_infographic_en.png) -->
 ![English Infographic](/assets/images/author_infographic_202512_en.png)
 
+---
+**Authorship note**: Drafted with MS Copilot · Final responsibility: Seigo Sasaki (updated wording)
