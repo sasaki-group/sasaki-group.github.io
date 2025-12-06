@@ -31,4 +31,4 @@ Researchers and practitioners interested in nonlinear control and reinforcement 
 
 ---
 
-**Authorship note**: Drafted with MS Copilot · Final responsibility: Seigo Sasaki (updated wording)
+**Authorship note**: Drafted with Microsoft Copilot · Final responsibility: Seigo Sasaki (updated wording)

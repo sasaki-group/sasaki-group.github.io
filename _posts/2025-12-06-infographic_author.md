@@ -37,4 +37,4 @@ Explore the infographic to experience how new forms of knowledge can emerge from
 
 ---
 
-**Authorship note**: Drafted with MS Copilot · Final responsibility: Seigo Sasaki (updated wording)
+**Authorship note**: Drafted with Microsoft Copilot · Final responsibility: Seigo Sasaki (updated wording)
