@@ -154,6 +154,7 @@ paginate_path: /page:num/
 
 # Plugins
 plugins:
+  - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-archives
   - jekyll-feed
