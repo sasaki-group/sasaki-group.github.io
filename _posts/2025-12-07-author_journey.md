@@ -11,7 +11,7 @@ tags: [Author Journey, Profile, Google NotebookLM, Japanese-English, Multilingua
 ## 日本語版
 
 著者の歩みを作成してみました。　　
-**Google NotebookLM** が、論文PDFやWebページなど45のソースを精査・統合し、インフォグラフィックとして表現しました。  
+**Google NotebookLM** が、論文PDFやWebページなど45のソースを精査・統合し、自動的にインフォグラフィックとして表現しました。  
 
 ぜひご覧ください。
 
@@ -22,7 +22,7 @@ tags: [Author Journey, Profile, Google NotebookLM, Japanese-English, Multilingua
 ## English Version
 
 🎉 The author's visual journey is now available!  
-**Google NotebookLM** reviewed and synthesized 45 sources—including research paper PDFs and web pages—to create this infographic.  
+**Google NotebookLM** reviewed and synthesized 45 sources—including research paper PDFs and web pages—to automatically create this infographic.  
 
 We invite you to explore it.
 
