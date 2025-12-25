@@ -16,6 +16,7 @@ tags:
 
 ---
 
+## Game Video
 <video src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/Video/zigal_play.mp4"  controls loop autoplay muted width="70%"></video>  
 
 ---
