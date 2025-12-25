@@ -26,7 +26,7 @@ Game Video
 # 【日本語版】  
 
 ## 概要
-[ZIGAL](https://github.com/acsdsgn/zigal) は、1980年代に私が PC-8801 向けに制作したオリジナルアクションゲームを、現代の技術を用いて復刻・再資料化したプロジェクトです。  
+[ZIGAL](https://github.com/acsdsgn/zigal#日本語版) は、1980年代に私が PC-8801 向けに制作したオリジナルアクションゲームを、現代の技術を用いて復刻・再資料化したプロジェクトです。  
 当時の[雑誌掲載](https://github.com/acsdsgn/zigal/blob/main/docs/reconstruction_notes_ja.md#掲載雑誌)プログラム、ダンプリスト、メモリマップ、BASIC＋マシン語の構造を再検証し、エミュレータ上で再現可能な形にまとめています。
 
 ## 背景と目的
