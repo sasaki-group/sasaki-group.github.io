@@ -20,6 +20,7 @@ Game Video
 <a href="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/Video/zigal_play.mp4">
   <img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_1.png" width="400">
 </a>
+<video src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/Video/zigal_play.mp4"  controls loop autoplay muted width="70%">
 
 ---
 ## Overview
