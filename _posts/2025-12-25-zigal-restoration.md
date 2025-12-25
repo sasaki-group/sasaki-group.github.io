@@ -15,7 +15,6 @@ tags:
   - MachineLanguage
 
 ---
-**ZIGAL: 1980年代PCゲームの復刻と技術史アーカイブ**
 
 Game Video  
 <a href="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/Video/zigal_play.mp4">
@@ -23,8 +22,41 @@ Game Video
 </a>
 
 ---
+## Overview
+[ZIGAL](https://github.com/acsdsgn/zigal) is a restoration project of an original PC-8801 action game I developed in the 1980s.  
+Using modern tools and archival methods, the game has been reconstructed from [magazine listings](https://github.com/acsdsgn/zigal/blob/main/docs/reconstruction_notes_en.md#published-magazine), memory dumps, and handwritten notes, and is now fully reproducible on contemporary PC-8801 emulators.
+
+## Background and Motivation
+The 8-bit computing environment—**64KB of RAM, limited VRAM, and a CPU running at a few MHz**—offers a uniquely transparent view into how computers actually work.  
+These constraints make the platform an excellent educational resource and an important part of computing history.
+
+This project aims to preserve that environment while providing **reproducibility, transparency, and archival value** through modern documentation and version control practices.
+
+## Key Features
+- Verification of magazine program listings and dump data  
+- Reconstruction of BASIC and machine-language routines  
+- Execution and testing on PC-8801 emulators  
+- Creation of a reproducible d88 disk image  
+- Technical restoration notes documenting the process  
+- Public archival on GitHub for long-term preservation
+
+For a detailed reconstruction note, see [Reconstruction Notes](https://github.com/acsdsgn/zigal/blob/main/docs/reconstruction_notes_en.md).
+
+## Educational and Research Value
+ZIGAL serves as:
+
+- **A historical record** of 8-bit development practices  
+- **A reproducible artifact** for researchers and enthusiasts  
+- **An educational tool** for understanding memory, graphics, and CPU constraints  
+- **A transparent archive** with complete source, notes, and disk images  
+
+Future directions include packaging the emulator environment in Docker, enabling anyone to reproduce the 8-bit computing experience with minimal setup.
+
+---
+---
 
 # 【日本語版】  
+## ZIGAL: 1980年代PCゲームの復刻と技術史アーカイブ
 
 ## 概要
 [ZIGAL](https://github.com/acsdsgn/zigal#日本語版) は、1980年代に私が PC-8801 向けに制作したオリジナルアクションゲームを、現代の技術を用いて復刻・再資料化したプロジェクトです。  
@@ -58,40 +90,6 @@ Game Video
 
 将来的には、エミュレータ環境を Docker 化し、  
 「誰でもワンクリックで 8bit 環境を再現できる教材」としての展開も視野に入れています。
-
----
-
-# 【English Version】  
-
-## Overview
-[ZIGAL](https://github.com/acsdsgn/zigal) is a restoration project of an original PC-8801 action game I developed in the 1980s.  
-Using modern tools and archival methods, the game has been reconstructed from [magazine listings](https://github.com/acsdsgn/zigal/blob/main/docs/reconstruction_notes_en.md#published-magazine), memory dumps, and handwritten notes, and is now fully reproducible on contemporary PC-8801 emulators.
-
-## Background and Motivation
-The 8-bit computing environment—**64KB of RAM, limited VRAM, and a CPU running at a few MHz**—offers a uniquely transparent view into how computers actually work.  
-These constraints make the platform an excellent educational resource and an important part of computing history.
-
-This project aims to preserve that environment while providing **reproducibility, transparency, and archival value** through modern documentation and version control practices.
-
-## Key Features
-- Verification of magazine program listings and dump data  
-- Reconstruction of BASIC and machine-language routines  
-- Execution and testing on PC-8801 emulators  
-- Creation of a reproducible d88 disk image  
-- Technical restoration notes documenting the process  
-- Public archival on GitHub for long-term preservation
-
-For a detailed reconstruction note, see [Reconstruction Notes](https://github.com/acsdsgn/zigal/blob/main/docs/reconstruction_notes_en.md).
-
-## Educational and Research Value
-ZIGAL serves as:
-
-- **A historical record** of 8-bit development practices  
-- **A reproducible artifact** for researchers and enthusiasts  
-- **An educational tool** for understanding memory, graphics, and CPU constraints  
-- **A transparent archive** with complete source, notes, and disk images  
-
-Future directions include packaging the emulator environment in Docker, enabling anyone to reproduce the 8-bit computing experience with minimal setup.
 
 ---
 
