@@ -55,7 +55,7 @@ Future directions include packaging the emulator environment in Docker, enabling
 ---
 ---
 
-# 【日本語版】  
+# 日本語版  
 ## ZIGAL: 1980年代PCゲームの復刻と技術史アーカイブ
 
 ## 概要
