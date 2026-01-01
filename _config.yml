@@ -64,6 +64,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
+    - label: "YAMAP"
+      # icon: "fab fa-github"
+      url: "https://yamap.com/users/1789408"
 
 # Site Footer
 footer:
