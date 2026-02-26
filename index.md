@@ -7,7 +7,7 @@ header:
   height: 500px  
 ---
 
-[About / プロフィール](/about/)
+[**Profile / プロフィール**](/about/)
 
 ---
 
