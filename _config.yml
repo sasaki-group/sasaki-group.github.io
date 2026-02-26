@@ -37,6 +37,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
+    - label: "Profile"
+      # icon: "fab fa-fw fa-link"
+      url: /profile/  
     - label: "@NDA"
       # icon: "fab fa-fw fa-link"
       url: "https://www.nda.ac.jp/cc/ee/en/f3/seigo.html"
