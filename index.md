@@ -5,4 +5,5 @@ header:
   overlay_image: /assets/images/header_group_202511.png
   overlay_filter: 0.5
   height: 500px  
+permanentlink: /_pages/about.md
 ---
