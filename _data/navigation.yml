@@ -1,5 +1,5 @@
 main:
-  - title: "**Profile**"    
+  - title: "Profile"    
     url: /about/
   - title: "Posts"
     url: /year-archive/
