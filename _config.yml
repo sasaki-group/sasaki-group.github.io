@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "ja-JP"
 title                    : Sasaki Group
 title_separator          : "-"
-subtitle                 : "Structure-oriented Nonlinear Control Design"
+subtitle                 : "Structure-oriented Nonlinear Control System Design"
 name                     : &name "Seigo Sasaki"
 description              : Designing the geometric and informational structure of nonlinear control systems
 url                      : https://sasaki-group.github.io
