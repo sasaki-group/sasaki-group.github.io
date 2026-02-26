@@ -1,12 +1,8 @@
 ---
 layout: single
-title: "About"
+title: "Profile / プロフィール"
 permalink: /about/
 author_profile: true
----
-
-## Profile / プロフィール
-
 ---
 
 ## English Version
