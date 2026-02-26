@@ -6,8 +6,3 @@ header:
   overlay_filter: 0.5
   height: 500px  
 ---
-
-[**Profile / プロフィール**](/about/)
-
----
-
