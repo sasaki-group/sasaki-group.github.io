@@ -9,6 +9,8 @@ author_profile: true
 
 ---
 
+## English Version
+
 I study design theory for nonlinear control systems.
 
 Since the 1990s, I have been developing a framework for robust nonlinear control that combines polynomial state-dependent Lyapunov functions with convex-hull finite approximations. The initial question that motivated this work was whether we could design the spatial structure in which control is guaranteed to hold, rather than searching for controllers after the fact.
@@ -19,6 +21,9 @@ In my elementary school graduation album, I wrote that I wanted to become a “d
 
 ---
 
+## 日本語版
+
+
 非線形制御系の設計理論を研究しています。
 
 1990年代から、多項式型状態依存 Lyapunov 関数と凸包有限化を組み合わせたロバスト非線形制御の枠組みを構築してきました。出発点にあった問いは、「制御器を探索するのではなく、制御が成立する空間構造を先に設計できないか」というものです。
@@ -28,5 +33,3 @@ In my elementary school graduation album, I wrote that I wanted to become a “d
 小学校の卒業アルバムには「設計士」と書きました（そういう資格はないと後で知りましたが）。ドラフターの前に座る人のイラストと共に。壊れない構造の中に自然な流れを通すという感覚は、今も変わっていません。
 
 ---
-
-
