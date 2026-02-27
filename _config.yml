@@ -31,10 +31,6 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/seigo.png"
   bio              : "Designing the geometric and informational structure of nonlinear control systems"
-  links:
-     - label: "Profile"
-       icon: "fas fa-solid fa-book-open"
-       url: /profile/
   location         : "Yokosuka, Japan"
   email            :
   links:
@@ -45,10 +41,10 @@ author:
       icon: "fas fa-solid fa-book-open"
       url: /profile/  
     - label: "@NDA"
-      # icon: "fab fa-fw fa-link"
+      icon: "fab fa-solid fa-school-flag"
       url: "https://www.nda.ac.jp/cc/ee/en/f3/seigo.html"
     - label: "researchmap"
-      # icon: "fab fa-solid fa-play"
+      icon: "fab fa-solid fa-graduation-cap"
       url: "https://researchmap.jp/s5sskrmp/?lang=en"
     - label: "ResearchGate"
       icon: "fab fa-brands fa-researchgate"
@@ -60,10 +56,10 @@ author:
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-7596-5291"
     - label: "Scopus"
-      # icon: "fas fa-fw fa-link"
+      # icon: "fas fa-solid fa-user-graduate"
       url: "https://www.scopus.com/authid/detail.uri?authorId=7404101881"
     - label: "Web of Science"
-      # icon: "fas fa-fw fa-link"
+      # icon: "fas fa-solid fa-user-graduate"
       url: "https://www.webofscience.com/wos/author/record/R-1458-2019"
     - label: "Linkedin"
       icon: "fab fa-brands fa-linkedin"
@@ -72,7 +68,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/sasaki-group"
     - label: "YAMAP"
-      # icon: "fab fa-github"
+      icon: "fab fa-regular fa-mountain"
       url: "https://yamap.com/users/1789408"
 
 # Site Footer
