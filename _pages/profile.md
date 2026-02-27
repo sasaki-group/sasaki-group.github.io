@@ -29,3 +29,5 @@ In my elementary school graduation album, I wrote that I wanted to become a “d
 小学校の卒業アルバムには「設計士」と書きました（そういう資格はないと後で知りましたが）。ドラフターの前に座る人のイラストと共に。壊れない構造の中に自然な流れを通すという感覚は、今も変わっていません。
 
 ---
+
+**Authorship note**: Drafted with Microsoft Copilot, Anthropic Claude and OpenAI Chatgpt  · Final responsibility: Seigo Sasaki (revised wording)
