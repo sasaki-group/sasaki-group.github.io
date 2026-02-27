@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Profile / プロフィール"
-permalink: /about/
+permalink: /profile/
 author_profile: true
 ---
 

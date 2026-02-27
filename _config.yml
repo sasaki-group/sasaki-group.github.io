@@ -31,6 +31,10 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/seigo.png"
   bio              : "Designing the geometric and informational structure of nonlinear control systems"
+  links:
+     - label: "Profile"
+       icon: "fas fa-solid fa-book-open"
+       url: /profile/
   location         : "Yokosuka, Japan"
   email            :
   links:
@@ -38,7 +42,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Profile"
-      # icon: "fab fa-fw fa-link"
+      icon: "fas fa-solid fa-book-open"
       url: /profile/  
     - label: "@NDA"
       # icon: "fab fa-fw fa-link"
