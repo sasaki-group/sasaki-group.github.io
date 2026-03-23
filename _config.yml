@@ -62,7 +62,7 @@ author:
       icon: "fas fa-solid fa-user-graduate"
       url: "https://www.webofscience.com/wos/author/record/R-1458-2019"
     - label: "Zenodo"
-      icon: "fas fa-regular fa-cloud"
+      icon: "fas fa-light fa-folder"
       url: "https://zenodo.org/search?q=metadata.contributors.person_or_org.name:%22Sasaki,+Seigo%22"
     - label: "Linkedin"
       icon: "fab fa-brands fa-linkedin"
