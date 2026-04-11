@@ -9,7 +9,7 @@ author_profile: true
 
 I study design theory for nonlinear control systems.
 
-Since the 1990s, I have been developing a framework for robust nonlinear control that combines polynomial state-dependent Lyapunov functions, which we call an *extended quadratic Lyapunov function*,  with convex-hull finite approximations. The initial question that motivated this work was whether we could design the spatial structure in which control is guaranteed to hold, rather than searching for controllers after the fact.
+Since the 1990s, I have been developing a framework for robust nonlinear control that combines polynomial state-dependent Lyapunov functions, which we call an *extended quadratic Lyapunov function*,  with finite convex-hull approximations. The initial question that motivated this work was whether we could design the spatial structure in which control is guaranteed to hold, rather than searching for controllers after the fact.
 
 My current research aims to integrate stability geometry—admissible regions and invariant sets—and information structure—the relationship between observation and action—into a unified framework. When the design leans too heavily toward functions, the flow of information becomes thin; when it leans too heavily toward information structure, the functional structure becomes ambiguous. Accepting this tension and integrating it as a design problem is the central challenge I am working on now.
 
