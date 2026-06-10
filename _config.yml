@@ -43,7 +43,7 @@ author:
     - label: "@NDA"
       icon: "fas fa-solid fa-school-flag"
       url: "https://www.nda.ac.jp/cc/ee/en/f3/seigo.html"
-    - label: "IEEE Xplore Author Profile"
+    - label: "@IEEE Xplore"
       icon: "fas fa-solid fa-user-graduate"
       url: "https://ieeexplore.ieee.org/author/37324239400"
     - label: "researchmap"
